@@ -20,8 +20,10 @@ def random_col(board):
 
 ship_row = random_row(board)
 ship_col = random_col(board)
-print ship_row
-print ship_col
+
+# Debug code for showing which random row and column have been chosen
+# print ship_row
+# print ship_col
 
 # Everything from here on should go in your for loop!
 # Be sure to indent four spaces!
